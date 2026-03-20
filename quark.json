@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "quark.cn",
+        "sm.cn",
+        "uc.cn",
+        "ucweb.com"
+    ]，
+      "domain_keyword": [
+        "quark"
+      ]
+    }
+  ]
+}
