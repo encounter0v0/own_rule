@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "rules": [
+ {
+   "domain": [
+     "lilith.com",
+     "lilithgames.com",
+     "lilithgames.com.cn",
+     "lilith.sh",
+     "lilithvip.com",
+     "service.lilithgames.com",
+     "kefu.lilith.com",
+     "download.lilith.com",
+     "d.lilith.com"
+     ],
+   "domain_suffix": [
+     "lilith.com",
+     "lilithgames.com",
+     "lilithgames.com.cn"
+     ]
+      }
+  ]
+}
