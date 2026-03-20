@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "zspace.cn",
+        "download.zspace.cn",
+        "m.zspace.cn",
+        "zconnect.cn",
+        "www.zconnect.cn",
+        "zenithspace.net",
+        "proxy.zenithspace.net",
+        "znas.cn",
+        "zes.cn",
+        "izspace.cn"
+    ]
+      ]
+    }
+  ]
+}
